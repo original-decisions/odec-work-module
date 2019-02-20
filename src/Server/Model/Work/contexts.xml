@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<objects>
+  <object id="PortfolioContext" name="PortfolioContext"
+      type="odec.Server.Model.Work.Contexts.PortfolioContext, odec.Server.Model.Work" singleton="true">
+  </object>
+  <object id="WorkContext" name="WorkContext"
+     type="odec.Server.Model.Work.Contexts.WorkContext, odec.Server.Model.Work" singleton="true">
+  </object>
+</objects>

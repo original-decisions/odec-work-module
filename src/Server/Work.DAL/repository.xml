@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<objects>
+  <object id="WorkRepository" name="WorkRepository"
+      type="odec.Work.DAL.WorkRepository, odec.Work.DAL">
+  </object>
+<object id="PortfolioRepository" name="PortfolioRepository"
+      type="odec.Work.DAL.PortfolioRepository, odec.Work.DAL">
+  </object>
+</objects>
